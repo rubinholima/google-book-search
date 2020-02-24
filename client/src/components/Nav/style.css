@@ -1,0 +1,16 @@
+.nav-tabs {
+    background-color: whitesmoke;
+
+}
+
+.nav-link:hover {
+    background-color: burlywood;
+}
+
+.nav-brand {
+    padding: 10px;
+}
+
+nav.navbar {
+    margin-bottom: 0;
+}
