@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/54456672/75178149-8b323d80-5705-11ea-81f0-d26df3490839.png)
 
-Link to live application: https://guarded-brushlands-92248.herokuapp.com/
+Link to live application: https://google-book-search-rubinho.herokuapp.com/
 
 This is a book search app created using React. You can also save books that you are interested in.
 
